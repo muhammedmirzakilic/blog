@@ -1,0 +1,13 @@
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+  Test: /testpage
+#If you dont want it, just comment it out
+weibo: yourweibo
+github: yourgithub
+linkedin: yourlinkedin
+email: mailto:youremail
+
+#Put into /source
+avator: avator.jpg
