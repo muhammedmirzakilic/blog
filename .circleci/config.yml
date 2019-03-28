@@ -29,4 +29,4 @@ jobs:
             apt-get install -y awscli
       - run:
           name: Push to S3 bucket
-          command: aws s3 sync public s3://blog.muhammedmirza.com/blog
+          command: aws s3 sync public s3://blog.muhammedmirza.com/

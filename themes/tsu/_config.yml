@@ -5,9 +5,9 @@ menu:
   Test: /testpage
 #If you dont want it, just comment it out
 weibo: yourweibo
-github: yourgithub
-linkedin: yourlinkedin
-email: mailto:youremail
+github: https://github.com/muhammedmirzakilic
+linkedin: https://www.linkedin.com/in/muhammed-mirza-kilic/
+email: mailto:muhammedmirzakilic@gmail.com
 
 #Put into /source
 avator: avator.jpg
